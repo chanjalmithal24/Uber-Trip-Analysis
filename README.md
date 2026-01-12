@@ -1,6 +1,6 @@
 # 📊 Uber Trip Analysis Dashboard
 
-![Uber Trip Analysis Dashboard](./f82daca2-c89b-467b-a24c-396af84f7cd9.png)
+![Uber trips anaysis dashboard.png](./f82daca2-c89b-467b-a24c-396af84f7cd9.png)
 
 ---
 
