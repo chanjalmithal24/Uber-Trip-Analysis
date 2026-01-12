@@ -1,6 +1,6 @@
 # 📊 Uber Trip Analysis Dashboard
+![Uber Trips Analysis Dashboard](Uber%20trips%20anaysis%20dashboard.png)
 
-![Uber Trips Analysis Dashboard](Uber trips anaysis dashboard.png)
 
 ---
 
