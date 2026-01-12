@@ -1,6 +1,6 @@
 # 📊 Uber Trip Analysis Dashboard
 
-<img src="./Uber trips anaysis dashboard.png" alt="High Cloud Airlines Power BI Dashboard" width="850">
+![Uber Trips Analysis Dashboard](Uber trips anaysis dashboard.png)
 
 ---
 
